@@ -1,15 +1,14 @@
 import MainLayout from "../layouts/MainLayout";
 import SEO from "../components/SEO/SEO";
 
-import ServiceHero from "../components/Servicepage/ServiceHero";
-import ProblemSolution from "../components/Servicepage/ProblemSolution";
-import Features from "../components/Servicepage/Features";
-import Industries from "../components/Servicepage/Industries";
-import TechStack from "../components/Servicepage/TechStack";
-import CTA from "../components/Servicepage/CTA";
+import ServiceHero from "../components/Services/ServiceHero";
+import ProblemSolution from "../components/Services/ProblemSolution";
+import Features from "../components/Services/Features";
+import Industries from "../components/Services/Industries";
+import TechStack from "../components/Services/TechStack";
+import CTA from "../components/Services/CTA";
 
-
-import { services } from "../components/Servicepage/ServiceData";
+import { services } from "../components/Services/ServiceData";
 
 
 function Services() {
