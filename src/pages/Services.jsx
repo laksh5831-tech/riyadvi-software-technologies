@@ -8,11 +8,9 @@ import Industries from "../components/Servicepage/Industries";
 import TechStack from "../components/Servicepage/TechStack";
 import CTA from "../components/Servicepage/CTA";
 
-<<<<<<< HEAD
+
 import { services } from "../components/Servicepage/ServiceData";
-=======
-import { services } from "../components/Servicepage/serviceData";
->>>>>>> 192faedf8d4c76196126fc4069fdbee6c43ba1b4
+
 
 function Services() {
   const service = services.web;
