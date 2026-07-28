@@ -1,16 +1,7 @@
 import MainLayout from "../layouts/MainLayout";
 import SEO from "../components/SEO/SEO";
 
-<<<<<<< HEAD
-import ServiceHero from "../components/Servicepage/ServiceHero";
-import ProblemSolution from "../components/Servicepage/ProblemSolution";
-import Features from "../components/Servicepage/Features";
-import Industries from "../components/Servicepage/Industries";
-import TechStack from "../components/Servicepage/TechStack";
-import CTA from "../components/Servicepage/CTA";
 
-import { services } from "../components/Servicepage/ServiceData";
-=======
 import ServiceHero from "../components/Servicespage/ServiceHero";
 import ProblemSolution from "../components/Servicespage/ProblemSolution";
 import Features from "../components/Servicespage/Features";
@@ -19,7 +10,6 @@ import TechStack from "../components/Servicespage/TechStack";
 import CTA from "../components/Servicespage/CTA";
 
 import { services } from "../components/Servicespage/ServiceData";
->>>>>>> c44953f6c155ce2727dff66726a4234cb6376a34
 
 
 function Services() {
