@@ -7,7 +7,7 @@ import WhyChooseUs from "../components/WhyChooseUs/WhyChooseUs";
 import LeadMagnet from "../components/LeadMagnet/LeadMagnet";
 import Portfolio from "../components/Portfolio/Portfolio";
 import Testimonials from "../components/Testimonials/Testimonials";
-import StickyCTA from "../components/StickyCta/StickyCta";
+import StickyCTA from "../components/StickyCTA/StickyCTA";
 
 function Home() {
   return (
